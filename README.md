@@ -1,1 +1,1 @@
-# Estadística y Probabilidades
+# Aprendizaje Automático en Ingeniería Mecánica
